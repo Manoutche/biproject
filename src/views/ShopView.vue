@@ -7,7 +7,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="inner">
                             <ul class="axil-breadcrumb">
-                                <li class="axil-breadcrumb-item"><a href="index.html">Home</a></li>
+                                <li class="axil-breadcrumb-item"><a href="/index">Home</a></li>
                                 <li class="separator"></li>
                                 <li class="axil-breadcrumb-item active" aria-current="page">My Account</li>
                             </ul>
@@ -140,7 +140,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-01.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -148,15 +148,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">3D™ wireless headset</a></h5>
+                                            <h5 class="title"><a href="/single-product">3D™ wireless headset</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$30</span>
                                                 <span class="price old-price">$30</span>
@@ -169,20 +169,20 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-02.png" alt="Product Images">
                                         </a>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Media remote</a></h5>
+                                            <h5 class="title"><a href="/single-product">Media remote</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$40</span>
                                                 <span class="price old-price">$50</span>
@@ -195,7 +195,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-03.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -203,15 +203,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">HD camera</a></h5>
+                                            <h5 class="title"><a href="/single-product">HD camera</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$45</span>
                                                 <span class="price old-price">$60</span>
@@ -224,7 +224,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-04.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -232,15 +232,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Guys Bomber Jacket</a></h5>
+                                            <h5 class="title"><a href="/single-product">Guys Bomber Jacket</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$50</span>
                                                 <span class="price old-price">$60</span>
@@ -253,20 +253,20 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-05.png" alt="Product Images">
                                         </a>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Level 20 RGB Cherry</a></h5>
+                                            <h5 class="title"><a href="/single-product">Level 20 RGB Cherry</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$38</span>
                                                 <span class="price old-price">$50</span>
@@ -279,7 +279,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-06.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -287,15 +287,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Level 20 RGB Cherry</a></h5>
+                                            <h5 class="title"><a href="/single-product">Level 20 RGB Cherry</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$25</span>
                                                 <span class="price old-price">$40</span>
@@ -308,7 +308,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-07.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -316,15 +316,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Logitech Streamcam</a></h5>
+                                            <h5 class="title"><a href="/single-product">Logitech Streamcam</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$15</span>
                                                 <span class="price old-price">$20</span>
@@ -337,20 +337,20 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-08.png" alt="Product Images">
                                         </a>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Bass Meets Clarity</a></h5>
+                                            <h5 class="title"><a href="/single-product">Bass Meets Clarity</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$60</span>
                                                 <span class="price old-price">$80</span>
@@ -363,7 +363,7 @@
                             <div class="col-xl-4 col-sm-6">
                                 <div class="axil-product product-style-one mb--30">
                                     <div class="thumbnail">
-                                        <a href="single-product.html">
+                                        <a href="/single-product">
                                             <img src="assets/images/product/electric/product-02.png" alt="Product Images">
                                         </a>
                                         <div class="label-block label-right">
@@ -371,15 +371,15 @@
                                         </div>
                                         <div class="product-hover-action">
                                             <ul class="cart-action">
-                                                <li class="wishlist"><a href="wishlist.html"><i class="far fa-heart"></i></a></li>
-                                                <li class="select-option"><a href="cart.html">Add to Cart</a></li>
+                                                <li class="wishlist"><a href="/wishlist"><i class="far fa-heart"></i></a></li>
+                                                <li class="select-option"><a href="/cart">Add to Cart</a></li>
                                                 <li class="quickview"><a href="#" data-bs-toggle="modal" data-bs-target="#quick-view-modal"><i class="far fa-eye"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="product-content">
                                         <div class="inner">
-                                            <h5 class="title"><a href="single-product.html">Media remote</a></h5>
+                                            <h5 class="title"><a href="/single-product">Media remote</a></h5>
                                             <div class="product-price-variant">
                                                 <span class="price current-price">$40</span>
                                                 <span class="price old-price">$50</span>
