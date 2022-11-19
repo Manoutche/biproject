@@ -39,7 +39,7 @@
                             <li class="axil-search d-xl-block d-none">
                                 <input type="search" class="placeholder product-search-input" name="search2" id="search2" value="" maxlength="128" placeholder="What are you looking for?" autocomplete="off">
                                 <button type="submit" class="icon wooc-btn-search">
-                                    <i class="flaticon-magnifying-glass"></i>
+                                <i class="flaticon-magnifying-glass"></i>
                                 </button>
                             </li>
                             <li class="wishlist">
