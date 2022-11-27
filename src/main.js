@@ -3,6 +3,13 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 // window.$ = window.jQuery = require("jquery");
+// import * as Vue from 'vue' // in Vue 3
+import axios from 'axios'
+import VueAxios from 'vue-axios'
 
-    
-createApp(App).use(store).use(router).mount('#app')
+
+createApp(App)
+.use(store)
+.use(router)
+.use(VueAxios, axios)
+.mount('#app')

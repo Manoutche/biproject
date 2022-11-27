@@ -20,6 +20,13 @@ export default {
     FooterComp
   },
 
+  created(){
+    this.axios
+    .get('http://127.0.0.1:8000/api/products')
+    .then((response) => {
+        console.log(response.data)
+      })
+  },
   setup() {   
     // const jquery = document.createElement("script");
     // jquery.setAttribute(
@@ -151,6 +158,6 @@ export default {
     mainjs.async = true;
     document.body.appendChild(mainjs);
   }
-}
+}   
 </script>
 
