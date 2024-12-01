@@ -19,22 +19,20 @@ export default {
     NavBar,
     FooterComp
   },
+  
 
   created(){
-    this.axios
-    .get('http://127.0.0.1:8000/api/products')
-    .then((response) => {
-        console.log(response.data)
-      })
+    this.$store.dispatch('getProduct')
+    this.$store.dispatch('getCategorie')
   },
   setup() {   
-    // const jquery = document.createElement("script");
-    // jquery.setAttribute(
-    //   "src",
-    //   "/assets/js/vendor/jquery.js", 
-    // );
-    // jquery.async = true;
-    // document.body.appendChild(jquery);
+    const jquery = document.createElement("script");
+    jquery.setAttribute(
+      "src",
+      "/assets/js/vendor/jquery.js", 
+    );
+    jquery.async = true;
+    document.body.appendChild(jquery);
      
     const modernizr = document.createElement("script");
     modernizr.setAttribute(
